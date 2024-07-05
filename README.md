@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suraj Tupe
 - 👀 I’m interested in Robotics Process Automation (RPA) | UiPath | Python
-- 🌱 I’m currently learning integration of Databases, Cloud Services and Web Services and APIs with UiPath.
+- 🌱 I’m currently learning the integration of Databases and APIs with UiPath.
 - 📫 How to reach me - Email - surajtupe5343@gmail.com | Phone - +91 9139904910
 
 <!---
